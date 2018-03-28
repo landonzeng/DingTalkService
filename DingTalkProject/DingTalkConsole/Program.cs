@@ -624,10 +624,10 @@ namespace DingTalkConsole
             {
                 EmployeeEntity model = new EmployeeEntity();
                 model.userid = "wangzezheng";
-                model.name = "王泽政";
-                model.department = new List<int>(new int[] { 44738704 });
+                model.name = "王五";
+                model.department = new List<int>(new int[] { 123456 });
                 model.position = "软件工程师";
-                model.mobile = "13795418334";
+                model.mobile = "137*****334";
                 model.tel = "";
                 model.workPlace = "";
                 model.remark = "";
