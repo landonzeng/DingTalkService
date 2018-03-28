@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DingTalkConsole", "DingTalkConsole\DingTalkConsole.csproj", "{F7F10156-4234-48B6-8F2E-351F5DEB89BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{067162C2-6F29-49D3-926F-6F050B370423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{E5FC9884-7115-47AA-8B18-1D74537D9F36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{EC3C0B5E-4FEF-4062-BA00-44FB2E5F7A24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DingTalkService", "DingTalkService\DingTalkService.csproj", "{94F7E204-727E-42E2-BE4E-3EAC30F3E064}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DingTalkDB", "DingTalkDB", "{9C7A5A93-1915-4ED3-9D44-C13F7C52FBF7}"
+	ProjectSection(SolutionItems) = preProject
+		DingTalkDB\DingTalkDB.sql = DingTalkDB\DingTalkDB.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F10156-4234-48B6-8F2E-351F5DEB89BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F10156-4234-48B6-8F2E-351F5DEB89BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F10156-4234-48B6-8F2E-351F5DEB89BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F10156-4234-48B6-8F2E-351F5DEB89BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067162C2-6F29-49D3-926F-6F050B370423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067162C2-6F29-49D3-926F-6F050B370423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067162C2-6F29-49D3-926F-6F050B370423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067162C2-6F29-49D3-926F-6F050B370423}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5FC9884-7115-47AA-8B18-1D74537D9F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FC9884-7115-47AA-8B18-1D74537D9F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FC9884-7115-47AA-8B18-1D74537D9F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FC9884-7115-47AA-8B18-1D74537D9F36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3C0B5E-4FEF-4062-BA00-44FB2E5F7A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3C0B5E-4FEF-4062-BA00-44FB2E5F7A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3C0B5E-4FEF-4062-BA00-44FB2E5F7A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3C0B5E-4FEF-4062-BA00-44FB2E5F7A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94F7E204-727E-42E2-BE4E-3EAC30F3E064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F7E204-727E-42E2-BE4E-3EAC30F3E064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F7E204-727E-42E2-BE4E-3EAC30F3E064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F7E204-727E-42E2-BE4E-3EAC30F3E064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F36A9F-9F37-40DF-B03F-827188959DEC}
+	EndGlobalSection
+EndGlobal

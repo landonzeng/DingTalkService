@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{067162C2-6F29-49D3-926F-6F050B370423}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Model</RootNamespace>
+    <AssemblyName>Model</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SqlSugar, Version=4.2.2.3, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\sqlSugar.4.2.2.4\lib\SqlSugar.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DingTalk\Entity\BatchDeleteEmployee.cs" />
+    <Compile Include="DingTalk\Entity\EmployeeEntity.cs" />
+    <Compile Include="DingTalk\Entity\DepartmentEntity.cs" />
+    <Compile Include="DingTalk\Entity\Tbiz_ErroUpdateEmployeeInfo.cs" />
+    <Compile Include="DingTalk\Entity\Tbiz_ExistData.cs" />
+    <Compile Include="DingTalk\Get\GetDepartmentForUserList\GetDepartmentForUserList.cs" />
+    <Compile Include="DingTalk\Get\GetEmployee\GetEmployee.cs" />
+    <Compile Include="DingTalk\Result\ByDepIdFroSimpleListResult.cs" />
+    <Compile Include="DingTalk\Result\DepartmentResult.cs" />
+    <Compile Include="DingTalk\Get\GetDepartmentList\Department.cs" />
+    <Compile Include="DingTalk\Result\EmployeeResult.cs" />
+    <Compile Include="DingTalk\Get\GetDepartment\GetDepartment.cs" />
+    <Compile Include="DingTalk\Get\GetDepartmentList\GetDepartmentList.cs" />
+    <Compile Include="DingTalk\Get\Get_AccessToken\Get_AccessToken.cs" />
+    <Compile Include="DingTalk\TempESB_DingTalk\DepartmentTrees.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_BatchHeader\Tbiz_BatchHeader.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_Cascadedata\Tbiz_Cascadedata.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_CompanyInfo\Tbiz_CompanyInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_DepartmentInfo\Tbiz_DepartmentInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_DepartmentTree\Tbiz_DepartmentTree.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_DepartureInfo\Tbiz_DepartureInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_GroupOperation\Tbiz_GroupOperation.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_JobDepartment\Tbiz_JobDepartment.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_JobInfo\Tbiz_JobInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_JobTree\Tbiz_JobTree.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_OperationTemp\Tbiz_OperationTemp.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_PersonalInfo\Tbiz_PersonalInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_PositionInfo\Tbiz_PositionInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_PositionLevel\Tbiz_PositionLevel.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_ShopInfo\Tbiz_ShopInfo.cs" />
+    <Compile Include="ESBModel\Entity\Tbiz_StaffPosition\Tbiz_StaffPosition.cs" />
+    <Compile Include="ESBModel\View\Department_Tree_Temp.cs" />
+    <Compile Include="ESBModel\View\V_DingTalk_DepartmentTree.cs" />
+    <Compile Include="ESBModel\View\V_Effective_Tbiz_DepartmentInfo.cs" />
+    <Compile Include="ESBModel\View\V_Effective_Tbiz_DepartmentTreeas.cs" />
+    <Compile Include="ESBModel\View\V_EmployeeToDingTalk.cs" />
+    <Compile Include="ESBModel\View\V_OperationObject.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="DingTalk\Result\Result.cs" />
+    <Compile Include="DingTalk\AccessToken\AccessToken.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

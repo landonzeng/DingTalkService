@@ -1,0 +1,1572 @@
+2018-01-09 16:19:24.9768 Info Loading assembly: NLog.MailKit
+2018-01-09 16:19:25.1708 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:19:25.1749 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:19:25.1749 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:19:25.1749 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:19:25.1933 Info Found 74 configuration items
+2018-01-09 16:19:25.2064 Info Found 74 configuration items
+2018-01-09 16:21:09.5200 Info Loading assembly: NLog.MailKit
+2018-01-09 16:21:09.6961 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:21:09.6961 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:21:09.6961 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:21:09.7051 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:21:09.7051 Info Found 74 configuration items
+2018-01-09 16:21:09.7414 Info Found 74 configuration items
+2018-01-09 16:21:50.7315 Info Loading assembly: NLog.MailKit
+2018-01-09 16:21:50.9158 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:21:50.9158 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:21:50.9158 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:21:50.9254 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 16:21:50.9438 Info Found 74 configuration items
+2018-01-09 16:21:50.9708 Info Configuration initialized.
+2018-01-09 16:21:50.9708 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 16:21:50.9708 Info Found 74 configuration items
+2018-01-09 16:21:50.9708 Info Loading assembly: NLog.MailKit
+2018-01-09 16:21:50.9863 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:21:50.9863 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:21:50.9863 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:21:50.9863 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:21:50.9863 Info Closing old configuration.
+2018-01-09 16:21:51.1723 Info Found 74 configuration items
+2018-01-09 16:21:51.1750 Info Found 74 configuration items
+2018-01-09 16:24:52.4136 Info Loading assembly: NLog.MailKit
+2018-01-09 16:24:52.5860 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:24:52.5860 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:24:52.5860 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:24:52.5860 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 16:24:52.6121 Info Found 74 configuration items
+2018-01-09 16:24:52.6364 Info Configuration initialized.
+2018-01-09 16:24:52.6364 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 16:24:52.6473 Info Found 74 configuration items
+2018-01-09 16:24:52.6473 Info Loading assembly: NLog.MailKit
+2018-01-09 16:24:52.6473 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:24:52.6473 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:24:52.6473 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:24:52.6473 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:24:52.6473 Info Closing old configuration.
+2018-01-09 16:24:52.8297 Info Found 74 configuration items
+2018-01-09 16:24:52.8297 Info Found 74 configuration items
+2018-01-09 16:55:39.1666 Info Loading assembly: NLog.MailKit
+2018-01-09 16:55:39.3105 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:55:39.3134 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:55:39.3134 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:55:39.3134 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 16:55:39.3312 Info Found 74 configuration items
+2018-01-09 16:55:39.3506 Info Configuration initialized.
+2018-01-09 16:55:39.3506 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 16:55:39.3506 Info Found 74 configuration items
+2018-01-09 16:55:39.3614 Info Loading assembly: NLog.MailKit
+2018-01-09 16:55:39.3614 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:55:39.3614 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:55:39.3614 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:55:39.3614 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:55:39.3614 Info Closing old configuration.
+2018-01-09 16:55:39.5479 Info Found 74 configuration items
+2018-01-09 16:55:39.5527 Info Found 74 configuration items
+2018-01-09 16:57:15.4081 Info Loading assembly: NLog.MailKit
+2018-01-09 16:57:15.5658 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:57:15.5658 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:57:15.5658 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:57:15.5658 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 16:57:15.5895 Info Found 74 configuration items
+2018-01-09 16:57:15.6113 Info Configuration initialized.
+2018-01-09 16:57:15.6113 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 16:57:15.6113 Info Found 74 configuration items
+2018-01-09 16:57:15.6113 Info Loading assembly: NLog.MailKit
+2018-01-09 16:57:15.6267 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:57:15.6267 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:57:15.6267 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:57:15.6267 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:57:15.6267 Info Closing old configuration.
+2018-01-09 16:57:15.8099 Info Found 74 configuration items
+2018-01-09 16:57:15.8140 Info Found 74 configuration items
+2018-01-09 16:59:47.6666 Info Loading assembly: NLog.MailKit
+2018-01-09 16:59:47.8121 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:59:47.8152 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:59:47.8152 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:59:47.8152 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 16:59:47.8334 Info Found 74 configuration items
+2018-01-09 16:59:47.8523 Info Configuration initialized.
+2018-01-09 16:59:47.8523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 16:59:47.8611 Info Found 74 configuration items
+2018-01-09 16:59:47.8611 Info Loading assembly: NLog.MailKit
+2018-01-09 16:59:47.8611 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 16:59:47.8611 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 16:59:47.8611 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 16:59:47.8611 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 16:59:47.8611 Info Closing old configuration.
+2018-01-09 16:59:48.0398 Info Found 74 configuration items
+2018-01-09 16:59:48.0398 Info Found 74 configuration items
+2018-01-09 17:05:06.4792 Info Loading assembly: NLog.MailKit
+2018-01-09 17:05:06.6456 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:05:06.6456 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:05:06.6456 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:05:06.6456 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:05:06.6732 Info Found 74 configuration items
+2018-01-09 17:05:06.6979 Info Configuration initialized.
+2018-01-09 17:05:06.6979 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:05:06.7087 Info Found 74 configuration items
+2018-01-09 17:05:06.7087 Info Loading assembly: NLog.MailKit
+2018-01-09 17:05:06.7087 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:05:06.7087 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:05:06.7087 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:05:06.7087 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:05:06.7087 Info Closing old configuration.
+2018-01-09 17:05:06.8914 Info Found 74 configuration items
+2018-01-09 17:05:06.8939 Info Found 74 configuration items
+2018-01-09 17:06:02.0153 Info Loading assembly: NLog.MailKit
+2018-01-09 17:06:02.1866 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:06:02.1906 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:06:02.1906 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:06:02.1906 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:06:02.2127 Info Found 74 configuration items
+2018-01-09 17:06:02.2374 Info Configuration initialized.
+2018-01-09 17:06:02.2374 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:06:02.2374 Info Found 74 configuration items
+2018-01-09 17:06:02.2512 Info Loading assembly: NLog.MailKit
+2018-01-09 17:06:02.2512 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:06:02.2512 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:06:02.2512 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:06:02.2512 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:06:02.2512 Info Closing old configuration.
+2018-01-09 17:06:02.4418 Info Found 74 configuration items
+2018-01-09 17:06:02.4418 Info Found 74 configuration items
+2018-01-09 17:15:07.8768 Info Loading assembly: NLog.MailKit
+2018-01-09 17:15:08.0408 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:15:08.0500 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:15:08.0500 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:15:08.0500 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:15:08.0745 Info Found 74 configuration items
+2018-01-09 17:15:08.0991 Info Configuration initialized.
+2018-01-09 17:15:08.0991 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:15:08.0991 Info Found 74 configuration items
+2018-01-09 17:15:08.1120 Info Loading assembly: NLog.MailKit
+2018-01-09 17:15:08.1120 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:15:08.1120 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:15:08.1120 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:15:08.1120 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:15:08.1120 Info Closing old configuration.
+2018-01-09 17:15:08.2906 Info Found 74 configuration items
+2018-01-09 17:15:08.2906 Info Found 74 configuration items
+2018-01-09 17:34:21.4757 Info Loading assembly: NLog.MailKit
+2018-01-09 17:34:21.6415 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:34:21.6415 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:34:21.6415 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:34:21.6415 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:34:21.6679 Info Found 74 configuration items
+2018-01-09 17:34:21.6930 Info Configuration initialized.
+2018-01-09 17:34:21.6930 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:34:21.7057 Info Found 74 configuration items
+2018-01-09 17:34:21.7057 Info Loading assembly: NLog.MailKit
+2018-01-09 17:34:21.7057 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:34:21.7057 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:34:21.7057 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:34:21.7057 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:34:21.7057 Info Closing old configuration.
+2018-01-09 17:34:21.8880 Info Found 74 configuration items
+2018-01-09 17:34:21.8880 Info Found 74 configuration items
+2018-01-09 17:35:28.7817 Info Loading assembly: NLog.MailKit
+2018-01-09 17:35:28.9493 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:35:28.9493 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:35:28.9493 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:35:28.9493 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:35:28.9798 Info Found 74 configuration items
+2018-01-09 17:35:29.0049 Info Configuration initialized.
+2018-01-09 17:35:29.0049 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:35:29.0164 Info Found 74 configuration items
+2018-01-09 17:35:29.0164 Info Loading assembly: NLog.MailKit
+2018-01-09 17:35:29.0164 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:35:29.0164 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:35:29.0164 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:35:29.0164 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:35:29.0164 Info Closing old configuration.
+2018-01-09 17:35:29.1990 Info Found 74 configuration items
+2018-01-09 17:35:29.1990 Info Found 74 configuration items
+2018-01-09 17:36:07.1040 Info Loading assembly: NLog.MailKit
+2018-01-09 17:36:07.2900 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:36:07.2921 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:36:07.2921 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:36:07.2921 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:36:07.3281 Info Found 74 configuration items
+2018-01-09 17:36:07.3613 Info Configuration initialized.
+2018-01-09 17:36:07.3613 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:36:07.3777 Info Found 74 configuration items
+2018-01-09 17:36:07.3777 Info Loading assembly: NLog.MailKit
+2018-01-09 17:36:07.3777 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:36:07.3777 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:36:07.3777 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:36:07.3777 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:36:07.3886 Info Closing old configuration.
+2018-01-09 17:36:07.5679 Info Found 74 configuration items
+2018-01-09 17:36:07.5679 Info Found 74 configuration items
+2018-01-09 17:37:25.7579 Info Loading assembly: NLog.MailKit
+2018-01-09 17:37:25.9309 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:37:25.9326 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:37:25.9326 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:37:25.9326 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:37:25.9577 Info Found 74 configuration items
+2018-01-09 17:37:25.9818 Info Configuration initialized.
+2018-01-09 17:37:25.9818 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:37:25.9958 Info Found 74 configuration items
+2018-01-09 17:37:25.9958 Info Loading assembly: NLog.MailKit
+2018-01-09 17:37:25.9958 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:37:25.9958 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:37:25.9958 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:37:25.9958 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:37:25.9958 Info Closing old configuration.
+2018-01-09 17:37:26.1939 Info Found 74 configuration items
+2018-01-09 17:37:26.1980 Info Found 74 configuration items
+2018-01-09 17:38:59.4335 Info Loading assembly: NLog.MailKit
+2018-01-09 17:38:59.6046 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:38:59.6046 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:38:59.6046 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:38:59.6046 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:38:59.6314 Info Found 74 configuration items
+2018-01-09 17:38:59.6553 Info Configuration initialized.
+2018-01-09 17:38:59.6553 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:38:59.6553 Info Found 74 configuration items
+2018-01-09 17:38:59.6688 Info Loading assembly: NLog.MailKit
+2018-01-09 17:38:59.6688 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:38:59.6688 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:38:59.6688 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:38:59.6688 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:38:59.6688 Info Closing old configuration.
+2018-01-09 17:38:59.8469 Info Found 74 configuration items
+2018-01-09 17:38:59.8469 Info Found 74 configuration items
+2018-01-09 17:48:51.2386 Info Loading assembly: NLog.MailKit
+2018-01-09 17:48:51.4027 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:48:51.4027 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:48:51.4027 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:48:51.4027 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:48:51.4343 Info Found 74 configuration items
+2018-01-09 17:48:51.4487 Info Configuration initialized.
+2018-01-09 17:48:51.4487 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:48:51.4719 Info Found 74 configuration items
+2018-01-09 17:48:51.4719 Info Loading assembly: NLog.MailKit
+2018-01-09 17:48:51.4719 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:48:51.4719 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:48:51.4719 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:48:51.4719 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:48:51.4803 Info Closing old configuration.
+2018-01-09 17:48:51.6590 Info Found 74 configuration items
+2018-01-09 17:48:51.6682 Info Found 74 configuration items
+2018-01-09 17:49:32.0715 Info Loading assembly: NLog.MailKit
+2018-01-09 17:49:32.2311 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:49:32.2311 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:49:32.2311 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:49:32.2311 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:49:32.2610 Info Found 74 configuration items
+2018-01-09 17:49:32.2852 Info Configuration initialized.
+2018-01-09 17:49:32.2852 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:49:32.2959 Info Found 74 configuration items
+2018-01-09 17:49:32.2959 Info Loading assembly: NLog.MailKit
+2018-01-09 17:49:32.2959 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:49:32.2959 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:49:32.2959 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:49:32.2959 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:49:32.2959 Info Closing old configuration.
+2018-01-09 17:49:32.4842 Info Found 74 configuration items
+2018-01-09 17:49:32.4842 Info Found 74 configuration items
+2018-01-09 17:51:20.6242 Info Loading assembly: NLog.MailKit
+2018-01-09 17:51:20.7962 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:51:20.7962 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:51:20.7962 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:51:20.7962 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 17:51:20.8236 Info Found 74 configuration items
+2018-01-09 17:51:20.8390 Info Configuration initialized.
+2018-01-09 17:51:20.8390 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 17:51:20.8620 Info Found 74 configuration items
+2018-01-09 17:51:20.8620 Info Loading assembly: NLog.MailKit
+2018-01-09 17:51:20.8620 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 17:51:20.8620 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 17:51:20.8620 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 17:51:20.8620 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 17:51:20.8620 Info Closing old configuration.
+2018-01-09 17:51:21.0538 Info Found 74 configuration items
+2018-01-09 17:51:21.0582 Info Found 74 configuration items
+2018-01-09 18:08:15.0409 Info Loading assembly: NLog.MailKit
+2018-01-09 18:08:15.2094 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:08:15.2094 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:08:15.2144 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:08:15.2144 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:08:15.2347 Info Found 74 configuration items
+2018-01-09 18:08:15.2476 Info Configuration initialized.
+2018-01-09 18:08:15.2476 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:08:15.2693 Info Found 74 configuration items
+2018-01-09 18:08:15.2693 Info Loading assembly: NLog.MailKit
+2018-01-09 18:08:15.2693 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:08:15.2693 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:08:15.2693 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:08:15.2693 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:08:15.2767 Info Closing old configuration.
+2018-01-09 18:08:15.4514 Info Found 74 configuration items
+2018-01-09 18:08:15.4514 Info Found 74 configuration items
+2018-01-09 18:08:33.9565 Info Loading assembly: NLog.MailKit
+2018-01-09 18:08:34.1362 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:08:34.1362 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:08:34.1362 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:08:34.1362 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:08:34.1662 Info Found 74 configuration items
+2018-01-09 18:08:34.1918 Info Configuration initialized.
+2018-01-09 18:08:34.1918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:08:34.2030 Info Found 74 configuration items
+2018-01-09 18:08:34.2030 Info Loading assembly: NLog.MailKit
+2018-01-09 18:08:34.2030 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:08:34.2030 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:08:34.2030 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:08:34.2030 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:08:34.2030 Info Closing old configuration.
+2018-01-09 18:08:34.3850 Info Found 74 configuration items
+2018-01-09 18:08:34.3850 Info Found 74 configuration items
+2018-01-09 18:08:59.7092 Info Loading assembly: NLog.MailKit
+2018-01-09 18:08:59.8742 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:08:59.8742 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:08:59.8742 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:08:59.8742 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:08:59.9008 Info Found 74 configuration items
+2018-01-09 18:08:59.9323 Info Configuration initialized.
+2018-01-09 18:08:59.9323 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:08:59.9323 Info Found 74 configuration items
+2018-01-09 18:08:59.9323 Info Loading assembly: NLog.MailKit
+2018-01-09 18:08:59.9323 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:08:59.9483 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:08:59.9483 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:08:59.9483 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:08:59.9483 Info Closing old configuration.
+2018-01-09 18:09:00.1299 Info Found 74 configuration items
+2018-01-09 18:09:00.1357 Info Found 74 configuration items
+2018-01-09 18:14:22.5269 Info Loading assembly: NLog.MailKit
+2018-01-09 18:14:22.6939 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:14:22.6980 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:14:22.6980 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:14:22.6980 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:14:22.7205 Info Found 74 configuration items
+2018-01-09 18:14:22.7455 Info Configuration initialized.
+2018-01-09 18:14:22.7455 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:14:22.7455 Info Found 74 configuration items
+2018-01-09 18:14:22.7455 Info Loading assembly: NLog.MailKit
+2018-01-09 18:14:22.7455 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:14:22.7609 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:14:22.7609 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:14:22.7609 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:14:22.7609 Info Closing old configuration.
+2018-01-09 18:14:22.9395 Info Found 74 configuration items
+2018-01-09 18:14:22.9395 Info Found 74 configuration items
+2018-01-09 18:20:47.8796 Info Loading assembly: NLog.MailKit
+2018-01-09 18:20:48.0397 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:20:48.0397 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:20:48.0397 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:20:48.0485 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:20:48.0653 Info Found 74 configuration items
+2018-01-09 18:20:48.0898 Info Configuration initialized.
+2018-01-09 18:20:48.0898 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:20:48.1024 Info Found 74 configuration items
+2018-01-09 18:20:48.1024 Info Loading assembly: NLog.MailKit
+2018-01-09 18:20:48.1024 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:20:48.1024 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:20:48.1024 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:20:48.1024 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:20:48.1024 Info Closing old configuration.
+2018-01-09 18:20:48.2856 Info Found 74 configuration items
+2018-01-09 18:20:48.2856 Info Found 74 configuration items
+2018-01-09 18:21:15.9497 Info Loading assembly: NLog.MailKit
+2018-01-09 18:21:16.1121 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:21:16.1121 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:21:16.1121 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:21:16.1121 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:21:16.1382 Info Found 74 configuration items
+2018-01-09 18:21:16.1626 Info Configuration initialized.
+2018-01-09 18:21:16.1626 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:21:16.1626 Info Found 74 configuration items
+2018-01-09 18:21:16.1755 Info Loading assembly: NLog.MailKit
+2018-01-09 18:21:16.1755 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:21:16.1755 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:21:16.1755 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:21:16.1755 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:21:16.1755 Info Closing old configuration.
+2018-01-09 18:21:16.3594 Info Found 74 configuration items
+2018-01-09 18:21:16.3622 Info Found 74 configuration items
+2018-01-09 18:27:35.5680 Info Loading assembly: NLog.MailKit
+2018-01-09 18:27:35.7518 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:27:35.7518 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:27:35.7518 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:27:35.7518 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:27:35.7799 Info Found 74 configuration items
+2018-01-09 18:27:35.8039 Info Configuration initialized.
+2018-01-09 18:27:35.8039 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:27:35.8164 Info Found 74 configuration items
+2018-01-09 18:27:35.8164 Info Loading assembly: NLog.MailKit
+2018-01-09 18:27:35.8164 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:27:35.8164 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:27:35.8164 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:27:35.8164 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:27:35.8164 Info Closing old configuration.
+2018-01-09 18:27:36.0042 Info Found 74 configuration items
+2018-01-09 18:27:36.0042 Info Found 74 configuration items
+2018-01-09 18:49:55.7728 Info Loading assembly: NLog.MailKit
+2018-01-09 18:49:55.9211 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:49:55.9242 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:49:55.9242 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:49:55.9242 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:49:55.9421 Info Found 74 configuration items
+2018-01-09 18:49:55.9620 Info Configuration initialized.
+2018-01-09 18:49:55.9620 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:49:55.9719 Info Found 74 configuration items
+2018-01-09 18:49:55.9719 Info Loading assembly: NLog.MailKit
+2018-01-09 18:49:55.9719 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:49:55.9719 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:49:55.9719 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:49:55.9719 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:49:55.9719 Info Closing old configuration.
+2018-01-09 18:49:56.1517 Info Found 74 configuration items
+2018-01-09 18:49:56.1517 Info Found 74 configuration items
+2018-01-09 18:51:30.9846 Info Loading assembly: NLog.MailKit
+2018-01-09 18:51:31.1253 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:51:31.1267 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:51:31.1267 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:51:31.1267 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:51:31.1469 Info Found 74 configuration items
+2018-01-09 18:51:31.1588 Info Configuration initialized.
+2018-01-09 18:51:31.1588 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:51:31.1771 Info Found 74 configuration items
+2018-01-09 18:51:31.1771 Info Loading assembly: NLog.MailKit
+2018-01-09 18:51:31.1771 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:51:31.1771 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:51:31.1771 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:51:31.1771 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:51:31.1771 Info Closing old configuration.
+2018-01-09 18:51:31.3549 Info Found 74 configuration items
+2018-01-09 18:51:31.3549 Info Found 74 configuration items
+2018-01-09 18:52:02.2353 Info Loading assembly: NLog.MailKit
+2018-01-09 18:52:02.3762 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:52:02.3777 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:52:02.3777 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:52:02.3777 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:52:02.3970 Info Found 74 configuration items
+2018-01-09 18:52:02.4180 Info Configuration initialized.
+2018-01-09 18:52:02.4180 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:52:02.4288 Info Found 74 configuration items
+2018-01-09 18:52:02.4288 Info Loading assembly: NLog.MailKit
+2018-01-09 18:52:02.4288 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:52:02.4288 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:52:02.4288 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:52:02.4288 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:52:02.4288 Info Closing old configuration.
+2018-01-09 18:52:02.6098 Info Found 74 configuration items
+2018-01-09 18:52:02.6171 Info Found 74 configuration items
+2018-01-09 18:56:29.6913 Info Loading assembly: NLog.MailKit
+2018-01-09 18:56:29.8407 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:56:29.8504 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:56:29.8504 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:56:29.8504 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:56:29.8720 Info Found 74 configuration items
+2018-01-09 18:56:29.8922 Info Configuration initialized.
+2018-01-09 18:56:29.8922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:56:29.8922 Info Found 74 configuration items
+2018-01-09 18:56:29.8922 Info Loading assembly: NLog.MailKit
+2018-01-09 18:56:29.8922 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:56:29.8922 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:56:29.8922 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:56:29.8922 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:56:29.9087 Info Closing old configuration.
+2018-01-09 18:56:30.0831 Info Found 74 configuration items
+2018-01-09 18:56:30.0831 Info Found 74 configuration items
+2018-01-09 18:57:03.1624 Info Loading assembly: NLog.MailKit
+2018-01-09 18:57:03.3071 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:57:03.3071 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:57:03.3071 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:57:03.3149 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 18:57:03.3149 Info Found 74 configuration items
+2018-01-09 18:57:03.3485 Info Configuration initialized.
+2018-01-09 18:57:03.3485 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 18:57:03.3485 Info Found 74 configuration items
+2018-01-09 18:57:03.3485 Info Loading assembly: NLog.MailKit
+2018-01-09 18:57:03.3609 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 18:57:03.3609 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 18:57:03.3609 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 18:57:03.3609 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 18:57:03.3609 Info Closing old configuration.
+2018-01-09 18:57:03.5453 Info Found 74 configuration items
+2018-01-09 18:57:03.5503 Info Found 74 configuration items
+2018-01-09 19:06:00.9703 Info Loading assembly: NLog.MailKit
+2018-01-09 19:06:01.1214 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:06:01.1214 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:06:01.1214 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:06:01.1295 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:06:01.1439 Info Found 74 configuration items
+2018-01-09 19:06:01.1653 Info Configuration initialized.
+2018-01-09 19:06:01.1653 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:06:01.1751 Info Found 74 configuration items
+2018-01-09 19:06:01.1751 Info Loading assembly: NLog.MailKit
+2018-01-09 19:06:01.1751 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:06:01.1751 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:06:01.1751 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:06:01.1751 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:06:01.1751 Info Closing old configuration.
+2018-01-09 19:06:01.3591 Info Found 74 configuration items
+2018-01-09 19:06:01.3617 Info Found 74 configuration items
+2018-01-09 19:09:34.0622 Info Loading assembly: NLog.MailKit
+2018-01-09 19:09:34.2149 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:09:34.2149 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:09:34.2149 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:09:34.2229 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:09:34.2368 Info Found 74 configuration items
+2018-01-09 19:09:34.2586 Info Configuration initialized.
+2018-01-09 19:09:34.2586 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:09:34.2678 Info Found 74 configuration items
+2018-01-09 19:09:34.2678 Info Loading assembly: NLog.MailKit
+2018-01-09 19:09:34.2678 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:09:34.2678 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:09:34.2678 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:09:34.2678 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:09:34.2678 Info Closing old configuration.
+2018-01-09 19:09:34.4514 Info Found 74 configuration items
+2018-01-09 19:09:34.4554 Info Found 74 configuration items
+2018-01-09 19:10:23.0649 Info Loading assembly: NLog.MailKit
+2018-01-09 19:10:23.2202 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:10:23.2217 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:10:23.2217 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:10:23.2217 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:10:23.2450 Info Found 74 configuration items
+2018-01-09 19:10:23.2689 Info Configuration initialized.
+2018-01-09 19:10:23.2689 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:10:23.2689 Info Found 74 configuration items
+2018-01-09 19:10:23.2689 Info Loading assembly: NLog.MailKit
+2018-01-09 19:10:23.2825 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:10:23.2825 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:10:23.2825 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:10:23.2825 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:10:23.2825 Info Closing old configuration.
+2018-01-09 19:10:23.4591 Info Found 74 configuration items
+2018-01-09 19:10:23.4591 Info Found 74 configuration items
+2018-01-09 19:21:06.9251 Info Loading assembly: NLog.MailKit
+2018-01-09 19:21:07.0690 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:21:07.0690 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:21:07.0690 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:21:07.0765 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:21:07.0937 Info Found 74 configuration items
+2018-01-09 19:21:07.1102 Info Configuration initialized.
+2018-01-09 19:21:07.1102 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:21:07.1317 Info Found 74 configuration items
+2018-01-09 19:21:07.1317 Info Loading assembly: NLog.MailKit
+2018-01-09 19:21:07.1317 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:21:07.1371 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:21:07.1371 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:21:07.1371 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:21:07.1371 Info Closing old configuration.
+2018-01-09 19:21:07.3215 Info Found 74 configuration items
+2018-01-09 19:21:07.3269 Info Found 74 configuration items
+2018-01-09 19:37:13.0989 Info Loading assembly: NLog.MailKit
+2018-01-09 19:37:13.2449 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:37:13.2489 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:37:13.2489 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:37:13.2489 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:37:13.2683 Info Found 74 configuration items
+2018-01-09 19:37:13.2796 Info Configuration initialized.
+2018-01-09 19:37:13.2796 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:37:13.3007 Info Found 74 configuration items
+2018-01-09 19:37:13.3007 Info Loading assembly: NLog.MailKit
+2018-01-09 19:37:13.3007 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:37:13.3007 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:37:13.3007 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:37:13.3007 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:37:13.3093 Info Closing old configuration.
+2018-01-09 19:37:13.4850 Info Found 74 configuration items
+2018-01-09 19:37:13.4850 Info Found 74 configuration items
+2018-01-09 19:39:52.6689 Info Loading assembly: NLog.MailKit
+2018-01-09 19:39:52.8070 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:39:52.8089 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:39:52.8089 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:39:52.8089 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:39:52.8306 Info Found 74 configuration items
+2018-01-09 19:39:52.8426 Info Configuration initialized.
+2018-01-09 19:39:52.8426 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:39:52.8611 Info Found 74 configuration items
+2018-01-09 19:39:52.8611 Info Loading assembly: NLog.MailKit
+2018-01-09 19:39:52.8611 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:39:52.8611 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:39:52.8611 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:39:52.8611 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:39:52.8611 Info Closing old configuration.
+2018-01-09 19:39:53.0496 Info Found 74 configuration items
+2018-01-09 19:39:53.0592 Info Found 74 configuration items
+2018-01-09 19:40:40.4579 Info Loading assembly: NLog.MailKit
+2018-01-09 19:40:40.6046 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:40:40.6061 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:40:40.6061 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:40:40.6061 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:40:40.6254 Info Found 74 configuration items
+2018-01-09 19:40:40.6442 Info Configuration initialized.
+2018-01-09 19:40:40.6442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:40:40.6442 Info Found 74 configuration items
+2018-01-09 19:40:40.6551 Info Loading assembly: NLog.MailKit
+2018-01-09 19:40:40.6551 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:40:40.6551 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:40:40.6551 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:40:40.6551 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:40:40.6551 Info Closing old configuration.
+2018-01-09 19:40:40.8344 Info Found 74 configuration items
+2018-01-09 19:40:40.8401 Info Found 74 configuration items
+2018-01-09 19:47:32.2671 Info Loading assembly: NLog.MailKit
+2018-01-09 19:47:32.4107 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:47:32.4107 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:47:32.4107 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:47:32.4107 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-09 19:47:32.4330 Info Found 74 configuration items
+2018-01-09 19:47:32.4523 Info Configuration initialized.
+2018-01-09 19:47:32.4523 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-09 19:47:32.4523 Info Found 74 configuration items
+2018-01-09 19:47:32.4523 Info Loading assembly: NLog.MailKit
+2018-01-09 19:47:32.4523 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-09 19:47:32.4655 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-09 19:47:32.4655 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-09 19:47:32.4655 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-09 19:47:32.4655 Info Closing old configuration.
+2018-01-09 19:47:32.6472 Info Found 74 configuration items
+2018-01-09 19:47:32.6472 Info Found 74 configuration items
+2018-01-10 09:45:40.3189 Info Loading assembly: NLog.MailKit
+2018-01-10 09:45:40.4643 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:45:40.4643 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:45:40.4643 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:45:40.4724 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 09:45:40.4869 Info Found 74 configuration items
+2018-01-10 09:45:40.5069 Info Configuration initialized.
+2018-01-10 09:45:40.5069 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 09:45:40.5069 Info Found 74 configuration items
+2018-01-10 09:45:40.5185 Info Loading assembly: NLog.MailKit
+2018-01-10 09:45:40.5185 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:45:40.5185 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:45:40.5185 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:45:40.5185 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 09:45:40.5185 Info Closing old configuration.
+2018-01-10 09:45:40.6995 Info Found 74 configuration items
+2018-01-10 09:45:40.7058 Info Found 74 configuration items
+2018-01-10 09:52:02.5531 Info Loading assembly: NLog.MailKit
+2018-01-10 09:52:02.6987 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:52:02.6987 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:52:02.6987 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:52:02.7063 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 09:52:02.7229 Info Found 74 configuration items
+2018-01-10 09:52:02.7428 Info Configuration initialized.
+2018-01-10 09:52:02.7428 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 09:52:02.7515 Info Found 74 configuration items
+2018-01-10 09:52:02.7515 Info Loading assembly: NLog.MailKit
+2018-01-10 09:52:02.7515 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:52:02.7515 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:52:02.7515 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:52:02.7515 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 09:52:02.7515 Info Closing old configuration.
+2018-01-10 09:52:02.9300 Info Found 74 configuration items
+2018-01-10 09:52:02.9300 Info Found 74 configuration items
+2018-01-10 09:52:41.3579 Info Loading assembly: NLog.MailKit
+2018-01-10 09:52:41.5168 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:52:41.5256 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:52:41.5256 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:52:41.5256 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 09:52:41.5453 Info Found 74 configuration items
+2018-01-10 09:52:41.5646 Info Configuration initialized.
+2018-01-10 09:52:41.5646 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 09:52:41.5646 Info Found 74 configuration items
+2018-01-10 09:52:41.5646 Info Loading assembly: NLog.MailKit
+2018-01-10 09:52:41.5646 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:52:41.5792 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:52:41.5792 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:52:41.5792 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 09:52:41.5792 Info Closing old configuration.
+2018-01-10 09:52:41.7532 Info Found 74 configuration items
+2018-01-10 09:52:41.7532 Info Found 74 configuration items
+2018-01-10 09:54:41.8046 Info Loading assembly: NLog.MailKit
+2018-01-10 09:54:41.9554 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:54:41.9554 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:54:41.9554 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:54:41.9554 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 09:54:41.9779 Info Found 74 configuration items
+2018-01-10 09:54:41.9894 Info Configuration initialized.
+2018-01-10 09:54:41.9894 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 09:54:42.0083 Info Found 74 configuration items
+2018-01-10 09:54:42.0083 Info Loading assembly: NLog.MailKit
+2018-01-10 09:54:42.0083 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 09:54:42.0083 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 09:54:42.0083 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 09:54:42.0083 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 09:54:42.0083 Info Closing old configuration.
+2018-01-10 09:54:42.1893 Info Found 74 configuration items
+2018-01-10 09:54:42.1893 Info Found 74 configuration items
+2018-01-10 10:24:31.9095 Info Loading assembly: NLog.MailKit
+2018-01-10 10:24:32.0537 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 10:24:32.0569 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 10:24:32.0569 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 10:24:32.0569 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 10:24:32.0751 Info Found 74 configuration items
+2018-01-10 10:24:32.0943 Info Configuration initialized.
+2018-01-10 10:24:32.0943 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 10:24:32.0943 Info Found 74 configuration items
+2018-01-10 10:24:32.1051 Info Loading assembly: NLog.MailKit
+2018-01-10 10:24:32.1051 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 10:24:32.1051 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 10:24:32.1051 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 10:24:32.1051 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 10:24:32.1051 Info Closing old configuration.
+2018-01-10 10:24:32.2903 Info Found 74 configuration items
+2018-01-10 10:24:32.2957 Info Found 74 configuration items
+2018-01-10 11:32:26.5615 Info Loading assembly: NLog.MailKit
+2018-01-10 11:32:26.7128 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 11:32:26.7128 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 11:32:26.7128 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 11:32:26.7128 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 11:32:26.7345 Info Found 74 configuration items
+2018-01-10 11:32:26.7549 Info Configuration initialized.
+2018-01-10 11:32:26.7549 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 11:32:26.7549 Info Found 74 configuration items
+2018-01-10 11:32:26.7549 Info Loading assembly: NLog.MailKit
+2018-01-10 11:32:26.7549 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 11:32:26.7549 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 11:32:26.7549 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 11:32:26.7686 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 11:32:26.7686 Info Closing old configuration.
+2018-01-10 11:32:26.9503 Info Found 74 configuration items
+2018-01-10 11:32:26.9597 Info Found 74 configuration items
+2018-01-10 14:21:11.3390 Info Loading assembly: NLog.MailKit
+2018-01-10 14:21:11.4822 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 14:21:11.4822 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 14:21:11.4822 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 14:21:11.4822 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 14:21:11.5031 Info Found 74 configuration items
+2018-01-10 14:21:11.5138 Info Configuration initialized.
+2018-01-10 14:21:11.5138 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 14:21:11.5321 Info Found 74 configuration items
+2018-01-10 14:21:11.5321 Info Loading assembly: NLog.MailKit
+2018-01-10 14:21:11.5321 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 14:21:11.5321 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 14:21:11.5321 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 14:21:11.5321 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 14:21:11.5321 Info Closing old configuration.
+2018-01-10 14:21:11.7162 Info Found 74 configuration items
+2018-01-10 14:21:11.7162 Info Found 74 configuration items
+2018-01-10 16:51:24.5339 Info Loading assembly: NLog.MailKit
+2018-01-10 16:51:24.6938 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 16:51:24.6938 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 16:51:24.6938 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 16:51:24.6938 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 16:51:24.7156 Info Found 74 configuration items
+2018-01-10 16:51:24.7349 Info Configuration initialized.
+2018-01-10 16:51:24.7349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 16:51:24.7349 Info Found 74 configuration items
+2018-01-10 16:51:24.7349 Info Loading assembly: NLog.MailKit
+2018-01-10 16:51:24.7349 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 16:51:24.7349 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 16:51:24.7495 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 16:51:24.7495 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 16:51:24.7495 Info Closing old configuration.
+2018-01-10 16:51:24.9323 Info Found 74 configuration items
+2018-01-10 16:51:24.9323 Info Found 74 configuration items
+2018-01-10 17:36:08.8652 Info Loading assembly: NLog.MailKit
+2018-01-10 17:36:09.0174 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 17:36:09.0174 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 17:36:09.0174 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 17:36:09.0174 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 17:36:09.0398 Info Found 74 configuration items
+2018-01-10 17:36:09.0600 Info Configuration initialized.
+2018-01-10 17:36:09.0600 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 17:36:09.0600 Info Found 74 configuration items
+2018-01-10 17:36:09.0600 Info Loading assembly: NLog.MailKit
+2018-01-10 17:36:09.0600 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 17:36:09.0733 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 17:36:09.0733 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 17:36:09.0733 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 17:36:09.0733 Info Closing old configuration.
+2018-01-10 17:36:09.2545 Info Found 74 configuration items
+2018-01-10 17:36:09.2545 Info Found 74 configuration items
+2018-01-10 17:37:14.5687 Info Loading assembly: NLog.MailKit
+2018-01-10 17:37:14.7081 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 17:37:14.7081 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 17:37:14.7081 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 17:37:14.7159 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 17:37:14.7305 Info Found 74 configuration items
+2018-01-10 17:37:14.7513 Info Configuration initialized.
+2018-01-10 17:37:14.7513 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 17:37:14.7615 Info Found 74 configuration items
+2018-01-10 17:37:14.7615 Info Loading assembly: NLog.MailKit
+2018-01-10 17:37:14.7615 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 17:37:14.7615 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 17:37:14.7615 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 17:37:14.7615 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 17:37:14.7615 Info Closing old configuration.
+2018-01-10 17:37:14.9446 Info Found 74 configuration items
+2018-01-10 17:37:14.9488 Info Found 74 configuration items
+2018-01-10 18:04:03.8096 Info Loading assembly: NLog.MailKit
+2018-01-10 18:04:03.9736 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:04:03.9736 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:04:03.9736 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:04:03.9823 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:04:04.0002 Info Found 74 configuration items
+2018-01-10 18:04:04.0270 Info Configuration initialized.
+2018-01-10 18:04:04.0270 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:04:04.0270 Info Found 74 configuration items
+2018-01-10 18:04:04.0467 Info Loading assembly: NLog.MailKit
+2018-01-10 18:04:04.0467 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:04:04.0467 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:04:04.0467 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:04:04.0467 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:04:04.0467 Info Closing old configuration.
+2018-01-10 18:04:04.2313 Info Found 74 configuration items
+2018-01-10 18:04:04.2313 Info Found 74 configuration items
+2018-01-10 18:06:00.7867 Info Loading assembly: NLog.MailKit
+2018-01-10 18:06:00.9564 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:06:00.9564 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:06:00.9564 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:06:00.9653 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:06:00.9830 Info Found 74 configuration items
+2018-01-10 18:06:00.9964 Info Configuration initialized.
+2018-01-10 18:06:00.9964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:06:01.0186 Info Found 74 configuration items
+2018-01-10 18:06:01.0186 Info Loading assembly: NLog.MailKit
+2018-01-10 18:06:01.0186 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:06:01.0186 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:06:01.0186 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:06:01.0186 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:06:01.0186 Info Closing old configuration.
+2018-01-10 18:06:01.2015 Info Found 74 configuration items
+2018-01-10 18:06:01.2015 Info Found 74 configuration items
+2018-01-10 18:08:28.3303 Info Loading assembly: NLog.MailKit
+2018-01-10 18:08:28.4923 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:08:28.4964 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:08:28.4964 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:08:28.4964 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:08:28.5191 Info Found 74 configuration items
+2018-01-10 18:08:28.5471 Info Configuration initialized.
+2018-01-10 18:08:28.5471 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:08:28.5471 Info Found 74 configuration items
+2018-01-10 18:08:28.5612 Info Loading assembly: NLog.MailKit
+2018-01-10 18:08:28.5612 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:08:28.5612 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:08:28.5612 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:08:28.5612 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:08:28.5612 Info Closing old configuration.
+2018-01-10 18:08:28.7391 Info Found 74 configuration items
+2018-01-10 18:08:28.7391 Info Found 74 configuration items
+2018-01-10 18:12:09.6081 Info Loading assembly: NLog.MailKit
+2018-01-10 18:12:09.7767 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:12:09.7767 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:12:09.7767 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:12:09.7767 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:12:09.8037 Info Found 74 configuration items
+2018-01-10 18:12:09.8279 Info Configuration initialized.
+2018-01-10 18:12:09.8279 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:12:09.8279 Info Found 74 configuration items
+2018-01-10 18:12:09.8415 Info Loading assembly: NLog.MailKit
+2018-01-10 18:12:09.8415 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:12:09.8415 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:12:09.8415 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:12:09.8415 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:12:09.8415 Info Closing old configuration.
+2018-01-10 18:12:10.0258 Info Found 74 configuration items
+2018-01-10 18:12:10.0347 Info Found 74 configuration items
+2018-01-10 18:28:44.7281 Info Loading assembly: NLog.MailKit
+2018-01-10 18:28:44.8952 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:28:44.8952 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:28:44.8952 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:28:44.9037 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:28:44.9205 Info Found 74 configuration items
+2018-01-10 18:28:44.9443 Info Configuration initialized.
+2018-01-10 18:28:44.9443 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:28:44.9548 Info Found 74 configuration items
+2018-01-10 18:28:44.9548 Info Loading assembly: NLog.MailKit
+2018-01-10 18:28:44.9548 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:28:44.9548 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:28:44.9548 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:28:44.9548 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:28:44.9548 Info Closing old configuration.
+2018-01-10 18:28:45.1436 Info Found 74 configuration items
+2018-01-10 18:28:45.1436 Info Found 74 configuration items
+2018-01-10 18:31:37.0893 Info Loading assembly: NLog.MailKit
+2018-01-10 18:31:37.2874 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:31:37.2874 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:31:37.2874 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:31:37.2972 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:31:37.3179 Info Found 74 configuration items
+2018-01-10 18:31:37.3434 Info Configuration initialized.
+2018-01-10 18:31:37.3434 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:31:37.3434 Info Found 74 configuration items
+2018-01-10 18:31:37.3572 Info Loading assembly: NLog.MailKit
+2018-01-10 18:31:37.3572 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:31:37.3572 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:31:37.3572 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:31:37.3572 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:31:37.3572 Info Closing old configuration.
+2018-01-10 18:31:37.5374 Info Found 74 configuration items
+2018-01-10 18:31:37.5374 Info Found 74 configuration items
+2018-01-10 18:33:30.0040 Info Loading assembly: NLog.MailKit
+2018-01-10 18:33:30.1633 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:33:30.1633 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:33:30.1688 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:33:30.1688 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:33:30.1924 Info Found 74 configuration items
+2018-01-10 18:33:30.2173 Info Configuration initialized.
+2018-01-10 18:33:30.2173 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:33:30.2173 Info Found 74 configuration items
+2018-01-10 18:33:30.2173 Info Loading assembly: NLog.MailKit
+2018-01-10 18:33:30.2315 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:33:30.2315 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:33:30.2315 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:33:30.2315 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:33:30.2315 Info Closing old configuration.
+2018-01-10 18:33:30.4117 Info Found 74 configuration items
+2018-01-10 18:33:30.4117 Info Found 74 configuration items
+2018-01-10 18:35:30.6163 Info Loading assembly: NLog.MailKit
+2018-01-10 18:35:30.7762 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:35:30.7803 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:35:30.7803 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:35:30.7803 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:35:30.8022 Info Found 74 configuration items
+2018-01-10 18:35:30.8271 Info Configuration initialized.
+2018-01-10 18:35:30.8271 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:35:30.8271 Info Found 74 configuration items
+2018-01-10 18:35:30.8411 Info Loading assembly: NLog.MailKit
+2018-01-10 18:35:30.8411 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:35:30.8411 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:35:30.8411 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:35:30.8411 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:35:30.8411 Info Closing old configuration.
+2018-01-10 18:35:31.0208 Info Found 74 configuration items
+2018-01-10 18:35:31.0208 Info Found 74 configuration items
+2018-01-10 18:39:53.0281 Info Loading assembly: NLog.MailKit
+2018-01-10 18:39:53.1919 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:39:53.1919 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:39:53.1919 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:39:53.2021 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:39:53.2203 Info Found 74 configuration items
+2018-01-10 18:39:53.2342 Info Configuration initialized.
+2018-01-10 18:39:53.2342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:39:53.2557 Info Found 74 configuration items
+2018-01-10 18:39:53.2557 Info Loading assembly: NLog.MailKit
+2018-01-10 18:39:53.2557 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:39:53.2557 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:39:53.2557 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:39:53.2557 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:39:53.2627 Info Closing old configuration.
+2018-01-10 18:39:53.4450 Info Found 74 configuration items
+2018-01-10 18:39:53.4450 Info Found 74 configuration items
+2018-01-10 18:44:42.2776 Info Loading assembly: NLog.MailKit
+2018-01-10 18:44:42.4518 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:44:42.4518 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:44:42.4518 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:44:42.4518 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:44:42.4783 Info Found 74 configuration items
+2018-01-10 18:44:42.5027 Info Configuration initialized.
+2018-01-10 18:44:42.5027 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:44:42.5137 Info Found 74 configuration items
+2018-01-10 18:44:42.5137 Info Loading assembly: NLog.MailKit
+2018-01-10 18:44:42.5137 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:44:42.5137 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:44:42.5137 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:44:42.5137 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:44:42.5137 Info Closing old configuration.
+2018-01-10 18:44:42.6969 Info Found 74 configuration items
+2018-01-10 18:44:42.7018 Info Found 74 configuration items
+2018-01-10 18:55:11.3640 Info Loading assembly: NLog.MailKit
+2018-01-10 18:55:11.5427 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:55:11.5452 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:55:11.5452 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:55:11.5452 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:55:11.5749 Info Found 74 configuration items
+2018-01-10 18:55:11.5921 Info Configuration initialized.
+2018-01-10 18:55:11.6067 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:55:11.6067 Info Found 74 configuration items
+2018-01-10 18:55:11.6237 Info Loading assembly: NLog.MailKit
+2018-01-10 18:55:11.6237 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:55:11.6237 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:55:11.6237 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:55:11.6237 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:55:11.6237 Info Closing old configuration.
+2018-01-10 18:55:11.8083 Info Found 74 configuration items
+2018-01-10 18:55:11.8146 Info Found 74 configuration items
+2018-01-10 18:59:03.8257 Info Loading assembly: NLog.MailKit
+2018-01-10 18:59:03.9706 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:59:03.9706 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:59:03.9706 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:59:03.9706 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 18:59:03.9914 Info Found 74 configuration items
+2018-01-10 18:59:04.0021 Info Configuration initialized.
+2018-01-10 18:59:04.0021 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 18:59:04.0196 Info Found 74 configuration items
+2018-01-10 18:59:04.0196 Info Loading assembly: NLog.MailKit
+2018-01-10 18:59:04.0196 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 18:59:04.0196 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 18:59:04.0196 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 18:59:04.0196 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 18:59:04.0196 Info Closing old configuration.
+2018-01-10 18:59:04.2045 Info Found 74 configuration items
+2018-01-10 18:59:04.2045 Info Found 74 configuration items
+2018-01-10 19:01:31.1899 Info Loading assembly: NLog.MailKit
+2018-01-10 19:01:31.3536 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 19:01:31.3571 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 19:01:31.3571 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 19:01:31.3571 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 19:01:31.3753 Info Found 74 configuration items
+2018-01-10 19:01:31.3869 Info Configuration initialized.
+2018-01-10 19:01:31.3869 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 19:01:31.4049 Info Found 74 configuration items
+2018-01-10 19:01:31.4049 Info Loading assembly: NLog.MailKit
+2018-01-10 19:01:31.4049 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 19:01:31.4049 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 19:01:31.4049 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 19:01:31.4049 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 19:01:31.4049 Info Closing old configuration.
+2018-01-10 19:01:31.5896 Info Found 74 configuration items
+2018-01-10 19:01:31.5977 Info Found 74 configuration items
+2018-01-10 19:07:16.5701 Info Loading assembly: NLog.MailKit
+2018-01-10 19:07:16.7424 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 19:07:16.7424 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 19:07:16.7466 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 19:07:16.7466 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 19:07:16.7643 Info Found 74 configuration items
+2018-01-10 19:07:16.7851 Info Configuration initialized.
+2018-01-10 19:07:16.7851 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 19:07:16.7941 Info Found 74 configuration items
+2018-01-10 19:07:16.7941 Info Loading assembly: NLog.MailKit
+2018-01-10 19:07:16.7941 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 19:07:16.7941 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 19:07:16.7941 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 19:07:16.7941 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 19:07:16.7941 Info Closing old configuration.
+2018-01-10 19:07:16.9750 Info Found 74 configuration items
+2018-01-10 19:07:16.9750 Info Found 74 configuration items
+2018-01-10 19:35:38.4733 Info Loading assembly: NLog.MailKit
+2018-01-10 19:35:38.6247 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 19:35:38.6247 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 19:35:38.6247 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 19:35:38.6247 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 19:35:38.6480 Info Found 74 configuration items
+2018-01-10 19:35:38.6599 Info Configuration initialized.
+2018-01-10 19:35:38.6599 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 19:35:38.6791 Info Found 74 configuration items
+2018-01-10 19:35:38.6791 Info Loading assembly: NLog.MailKit
+2018-01-10 19:35:38.6791 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 19:35:38.6791 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 19:35:38.6791 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 19:35:38.6791 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 19:35:38.6791 Info Closing old configuration.
+2018-01-10 19:35:38.8578 Info Found 74 configuration items
+2018-01-10 19:35:38.8602 Info Found 74 configuration items
+2018-01-10 20:04:10.3841 Info Loading assembly: NLog.MailKit
+2018-01-10 20:04:10.5352 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 20:04:10.5352 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 20:04:10.5352 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 20:04:10.5352 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-10 20:04:10.5607 Info Found 74 configuration items
+2018-01-10 20:04:10.5814 Info Configuration initialized.
+2018-01-10 20:04:10.5814 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-10 20:04:10.5814 Info Found 74 configuration items
+2018-01-10 20:04:10.5927 Info Loading assembly: NLog.MailKit
+2018-01-10 20:04:10.5927 Info Adding target AsyncWrapper Target[allfile](File Target[allfile_wrapped])
+2018-01-10 20:04:10.5927 Info Adding target AsyncWrapper Target[infoMail](Mail Target[infoMail_wrapped])
+2018-01-10 20:04:10.5927 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-10 20:04:10.5927 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-10 20:04:10.5927 Info Closing old configuration.
+2018-01-10 20:04:10.7760 Info Found 74 configuration items
+2018-01-10 20:04:10.7804 Info Found 74 configuration items
+2018-01-11 09:44:54.9985 Info Loading assembly: NLog.MailKit
+2018-01-11 09:44:55.1575 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:44:55.1575 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:44:55.1575 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:44:55.1575 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:44:55.1575 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:44:55.1575 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 09:44:55.1815 Info Found 114 configuration items
+2018-01-11 09:44:55.1895 Info Configuration initialized.
+2018-01-11 09:44:55.1895 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 09:44:55.2114 Info Found 114 configuration items
+2018-01-11 09:44:55.2114 Info Loading assembly: NLog.MailKit
+2018-01-11 09:44:55.2114 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:44:55.2114 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:44:55.2114 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:44:55.2114 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:44:55.2114 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:44:55.2191 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 09:44:55.2191 Info Closing old configuration.
+2018-01-11 09:44:55.5087 Info Found 114 configuration items
+2018-01-11 09:44:55.5175 Info Found 114 configuration items
+2018-01-11 09:48:37.7361 Info Loading assembly: NLog.MailKit
+2018-01-11 09:48:37.8842 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:48:37.8842 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:48:37.8842 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:48:37.8842 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:48:37.8842 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:48:37.8929 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 09:48:37.9080 Info Found 114 configuration items
+2018-01-11 09:48:37.9257 Info Configuration initialized.
+2018-01-11 09:48:37.9257 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 09:48:37.9382 Info Found 114 configuration items
+2018-01-11 09:48:37.9382 Info Loading assembly: NLog.MailKit
+2018-01-11 09:48:37.9382 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:48:37.9382 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:48:37.9382 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:48:37.9382 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:48:37.9382 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:48:37.9382 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 09:48:37.9382 Info Closing old configuration.
+2018-01-11 09:48:38.2397 Info Found 114 configuration items
+2018-01-11 09:48:38.2397 Info Found 114 configuration items
+2018-01-11 09:49:08.7795 Info Loading assembly: NLog.MailKit
+2018-01-11 09:49:08.9247 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:49:08.9247 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:49:08.9247 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:49:08.9247 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:49:08.9247 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:49:08.9247 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 09:49:08.9536 Info Found 114 configuration items
+2018-01-11 09:49:08.9752 Info Configuration initialized.
+2018-01-11 09:49:08.9752 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 09:49:08.9882 Info Found 114 configuration items
+2018-01-11 09:49:08.9882 Info Loading assembly: NLog.MailKit
+2018-01-11 09:49:08.9882 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:49:08.9882 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:49:08.9882 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:49:08.9882 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:49:08.9882 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:49:08.9882 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 09:49:08.9882 Info Closing old configuration.
+2018-01-11 09:49:09.2818 Info Found 114 configuration items
+2018-01-11 09:49:09.2818 Info Found 114 configuration items
+2018-01-11 09:49:36.6556 Info Loading assembly: NLog.MailKit
+2018-01-11 09:49:36.8064 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:49:36.8064 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:49:36.8064 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:49:36.8118 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:49:36.8118 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:49:36.8118 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 09:49:36.8330 Info Found 114 configuration items
+2018-01-11 09:49:36.8514 Info Configuration initialized.
+2018-01-11 09:49:36.8514 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 09:49:36.8666 Info Found 114 configuration items
+2018-01-11 09:49:36.8666 Info Loading assembly: NLog.MailKit
+2018-01-11 09:49:36.8751 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:49:36.8751 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:49:36.8751 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:49:36.8751 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:49:36.8751 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:49:36.8751 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 09:49:36.8751 Info Closing old configuration.
+2018-01-11 09:49:37.1743 Info Found 114 configuration items
+2018-01-11 09:49:37.1743 Info Found 114 configuration items
+2018-01-11 09:50:06.5863 Info Loading assembly: NLog.MailKit
+2018-01-11 09:50:06.7372 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:50:06.7372 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:50:06.7372 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:50:06.7372 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:50:06.7372 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:50:06.7372 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 09:50:06.7605 Info Found 114 configuration items
+2018-01-11 09:50:06.7811 Info Configuration initialized.
+2018-01-11 09:50:06.7811 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 09:50:06.7811 Info Found 114 configuration items
+2018-01-11 09:50:06.7811 Info Loading assembly: NLog.MailKit
+2018-01-11 09:50:06.7811 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 09:50:06.7811 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 09:50:06.7964 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 09:50:06.7964 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 09:50:06.7964 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 09:50:06.7964 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 09:50:06.7964 Info Closing old configuration.
+2018-01-11 09:50:07.0915 Info Found 114 configuration items
+2018-01-11 09:50:07.0946 Info Found 114 configuration items
+2018-01-11 11:42:39.1422 Info Loading assembly: NLog.MailKit
+2018-01-11 11:42:39.3255 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 11:42:39.3255 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 11:42:39.3255 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 11:42:39.3255 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 11:42:39.3255 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 11:42:39.3255 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 11:42:39.3528 Info Found 114 configuration items
+2018-01-11 11:42:39.3727 Info Configuration initialized.
+2018-01-11 11:42:39.3727 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 11:42:39.3727 Info Found 114 configuration items
+2018-01-11 11:42:39.3909 Info Loading assembly: NLog.MailKit
+2018-01-11 11:42:39.3909 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 11:42:39.3909 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 11:42:39.3909 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 11:42:39.3909 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 11:42:39.3909 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 11:42:39.3909 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 11:42:39.3909 Info Closing old configuration.
+2018-01-11 11:42:39.6973 Info Found 114 configuration items
+2018-01-11 11:42:39.7027 Info Found 114 configuration items
+2018-01-11 13:10:25.4028 Info Loading assembly: NLog.MailKit
+2018-01-11 13:10:25.5461 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:10:25.5461 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:10:25.5461 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:10:25.5461 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:10:25.5461 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:10:25.5461 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:10:25.5695 Info Found 114 configuration items
+2018-01-11 13:10:25.5891 Info Configuration initialized.
+2018-01-11 13:10:25.5891 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:10:25.5891 Info Found 114 configuration items
+2018-01-11 13:10:25.5891 Info Loading assembly: NLog.MailKit
+2018-01-11 13:10:25.5891 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:10:25.6040 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:10:25.6040 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:10:25.6040 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:10:25.6040 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:10:25.6040 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:10:25.6040 Info Closing old configuration.
+2018-01-11 13:10:25.8960 Info Found 114 configuration items
+2018-01-11 13:10:25.9024 Info Found 114 configuration items
+2018-01-11 13:16:35.4132 Info Loading assembly: NLog.MailKit
+2018-01-11 13:16:35.5716 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:16:35.5716 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:16:35.5716 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:16:35.5716 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:16:35.5716 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:16:35.5716 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:16:35.5973 Info Found 114 configuration items
+2018-01-11 13:16:35.6184 Info Configuration initialized.
+2018-01-11 13:16:35.6184 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:16:35.6184 Info Found 114 configuration items
+2018-01-11 13:16:35.6341 Info Loading assembly: NLog.MailKit
+2018-01-11 13:16:35.6341 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:16:35.6341 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:16:35.6341 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:16:35.6341 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:16:35.6341 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:16:35.6341 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:16:35.6341 Info Closing old configuration.
+2018-01-11 13:16:35.9283 Info Found 114 configuration items
+2018-01-11 13:16:35.9305 Info Found 114 configuration items
+2018-01-11 13:18:13.8849 Info Loading assembly: NLog.MailKit
+2018-01-11 13:18:14.0350 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:18:14.0350 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:18:14.0350 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:18:14.0404 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:18:14.0404 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:18:14.0404 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:18:14.0631 Info Found 114 configuration items
+2018-01-11 13:18:14.0868 Info Configuration initialized.
+2018-01-11 13:18:14.0868 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:18:14.0868 Info Found 114 configuration items
+2018-01-11 13:18:14.0868 Info Loading assembly: NLog.MailKit
+2018-01-11 13:18:14.1018 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:18:14.1018 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:18:14.1018 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:18:14.1018 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:18:14.1018 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:18:14.1018 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:18:14.1018 Info Closing old configuration.
+2018-01-11 13:18:14.3940 Info Found 114 configuration items
+2018-01-11 13:18:14.3996 Info Found 114 configuration items
+2018-01-11 13:19:01.4338 Info Loading assembly: NLog.MailKit
+2018-01-11 13:19:01.5866 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:19:01.5866 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:19:01.5866 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:19:01.5866 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:19:01.5866 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:19:01.5866 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:19:01.6108 Info Found 114 configuration items
+2018-01-11 13:19:01.6337 Info Configuration initialized.
+2018-01-11 13:19:01.6337 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:19:01.6337 Info Found 114 configuration items
+2018-01-11 13:19:01.6337 Info Loading assembly: NLog.MailKit
+2018-01-11 13:19:01.6496 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:19:01.6496 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:19:01.6496 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:19:01.6496 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:19:01.6496 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:19:01.6496 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:19:01.6496 Info Closing old configuration.
+2018-01-11 13:19:01.9333 Info Found 114 configuration items
+2018-01-11 13:19:01.9333 Info Found 114 configuration items
+2018-01-11 13:20:17.6087 Info Loading assembly: NLog.MailKit
+2018-01-11 13:20:17.7650 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:20:17.7650 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:20:17.7650 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:20:17.7650 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:20:17.7650 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:20:17.7764 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:20:17.7934 Info Found 114 configuration items
+2018-01-11 13:20:17.8145 Info Configuration initialized.
+2018-01-11 13:20:17.8145 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:20:17.8316 Info Found 114 configuration items
+2018-01-11 13:20:17.8368 Info Loading assembly: NLog.MailKit
+2018-01-11 13:20:17.8368 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:20:17.8368 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:20:17.8368 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:20:17.8368 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:20:17.8368 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:20:17.8368 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:20:17.8368 Info Closing old configuration.
+2018-01-11 13:20:18.1228 Info Found 114 configuration items
+2018-01-11 13:20:18.1228 Info Found 114 configuration items
+2018-01-11 13:21:16.6245 Info Loading assembly: NLog.MailKit
+2018-01-11 13:21:16.7714 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:21:16.7714 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:21:16.7714 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:21:16.7748 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:21:16.7748 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:21:16.7748 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:21:16.7963 Info Found 114 configuration items
+2018-01-11 13:21:16.8065 Info Configuration initialized.
+2018-01-11 13:21:16.8065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:21:16.8320 Info Found 114 configuration items
+2018-01-11 13:21:16.8320 Info Loading assembly: NLog.MailKit
+2018-01-11 13:21:16.8368 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:21:16.8368 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:21:16.8368 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:21:16.8368 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:21:16.8368 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:21:16.8368 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:21:16.8368 Info Closing old configuration.
+2018-01-11 13:21:17.1182 Info Found 114 configuration items
+2018-01-11 13:21:17.1182 Info Found 114 configuration items
+2018-01-11 13:23:15.1683 Info Loading assembly: NLog.MailKit
+2018-01-11 13:23:15.3309 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:23:15.3309 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:23:15.3309 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:23:15.3361 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:23:15.3361 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:23:15.3361 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:23:15.3576 Info Found 114 configuration items
+2018-01-11 13:23:15.3764 Info Configuration initialized.
+2018-01-11 13:23:15.3764 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:23:15.3897 Info Found 114 configuration items
+2018-01-11 13:23:15.3897 Info Loading assembly: NLog.MailKit
+2018-01-11 13:23:15.3897 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:23:15.3897 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:23:15.3897 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:23:15.3897 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:23:15.3897 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:23:15.3897 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:23:15.3996 Info Closing old configuration.
+2018-01-11 13:23:15.6799 Info Found 114 configuration items
+2018-01-11 13:23:15.6816 Info Found 114 configuration items
+2018-01-11 13:24:15.8676 Info Loading assembly: NLog.MailKit
+2018-01-11 13:24:16.0103 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:24:16.0103 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:24:16.0103 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:24:16.0103 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:24:16.0103 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:24:16.0103 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:24:16.0386 Info Found 114 configuration items
+2018-01-11 13:24:16.0575 Info Configuration initialized.
+2018-01-11 13:24:16.0575 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:24:16.0575 Info Found 114 configuration items
+2018-01-11 13:24:16.0738 Info Loading assembly: NLog.MailKit
+2018-01-11 13:24:16.0738 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:24:16.0738 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:24:16.0738 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:24:16.0738 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:24:16.0738 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:24:16.0738 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:24:16.0738 Info Closing old configuration.
+2018-01-11 13:24:16.3665 Info Found 114 configuration items
+2018-01-11 13:24:16.3679 Info Found 114 configuration items
+2018-01-11 13:25:13.3057 Info Loading assembly: NLog.MailKit
+2018-01-11 13:25:13.4551 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:25:13.4551 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:25:13.4551 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:25:13.4551 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:25:13.4551 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:25:13.4639 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:25:13.4789 Info Found 114 configuration items
+2018-01-11 13:25:13.4967 Info Configuration initialized.
+2018-01-11 13:25:13.4967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:25:13.5092 Info Found 114 configuration items
+2018-01-11 13:25:13.5092 Info Loading assembly: NLog.MailKit
+2018-01-11 13:25:13.5092 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:25:13.5092 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:25:13.5092 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:25:13.5092 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:25:13.5092 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:25:13.5092 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:25:13.5092 Info Closing old configuration.
+2018-01-11 13:25:13.8288 Info Found 114 configuration items
+2018-01-11 13:25:13.8382 Info Found 114 configuration items
+2018-01-11 13:26:40.3097 Info Loading assembly: NLog.MailKit
+2018-01-11 13:26:40.4557 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:26:40.4557 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:26:40.4557 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:26:40.4557 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:26:40.4617 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:26:40.4617 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:26:40.4812 Info Found 114 configuration items
+2018-01-11 13:26:40.5022 Info Configuration initialized.
+2018-01-11 13:26:40.5022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:26:40.5151 Info Found 114 configuration items
+2018-01-11 13:26:40.5151 Info Loading assembly: NLog.MailKit
+2018-01-11 13:26:40.5151 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:26:40.5151 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:26:40.5151 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:26:40.5151 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:26:40.5151 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:26:40.5151 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:26:40.5247 Info Closing old configuration.
+2018-01-11 13:26:40.8143 Info Found 114 configuration items
+2018-01-11 13:26:40.8240 Info Found 114 configuration items
+2018-01-11 13:31:41.5082 Info Loading assembly: NLog.MailKit
+2018-01-11 13:31:41.6484 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:31:41.6498 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:31:41.6498 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:31:41.6498 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:31:41.6498 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:31:41.6498 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 13:31:41.6754 Info Found 114 configuration items
+2018-01-11 13:31:41.6964 Info Configuration initialized.
+2018-01-11 13:31:41.6964 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 13:31:41.6964 Info Found 114 configuration items
+2018-01-11 13:31:41.6964 Info Loading assembly: NLog.MailKit
+2018-01-11 13:31:41.6964 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 13:31:41.7115 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 13:31:41.7115 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 13:31:41.7115 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 13:31:41.7115 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 13:31:41.7115 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 13:31:41.7115 Info Closing old configuration.
+2018-01-11 13:31:42.0035 Info Found 114 configuration items
+2018-01-11 13:31:42.0099 Info Found 114 configuration items
+2018-01-11 14:20:31.8886 Info Loading assembly: NLog.MailKit
+2018-01-11 14:20:32.0615 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 14:20:32.0615 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 14:20:32.0615 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 14:20:32.0615 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 14:20:32.0615 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 14:20:32.0721 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 14:20:32.0909 Info Found 114 configuration items
+2018-01-11 14:20:32.1141 Info Configuration initialized.
+2018-01-11 14:20:32.1141 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 14:20:32.1286 Info Found 114 configuration items
+2018-01-11 14:20:32.1286 Info Loading assembly: NLog.MailKit
+2018-01-11 14:20:32.1286 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 14:20:32.1341 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 14:20:32.1341 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 14:20:32.1341 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 14:20:32.1341 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 14:20:32.1341 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 14:20:32.1341 Info Closing old configuration.
+2018-01-11 14:20:32.4283 Info Found 114 configuration items
+2018-01-11 14:20:32.4325 Info Found 114 configuration items
+2018-01-11 16:31:53.7878 Info Loading assembly: NLog.MailKit
+2018-01-11 16:31:53.9694 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 16:31:53.9694 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 16:31:53.9694 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 16:31:53.9694 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 16:31:53.9694 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 16:31:53.9694 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 16:31:54.0036 Info Found 114 configuration items
+2018-01-11 16:31:54.0341 Info Configuration initialized.
+2018-01-11 16:31:54.0341 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 16:31:54.0493 Info Found 114 configuration items
+2018-01-11 16:31:54.0493 Info Loading assembly: NLog.MailKit
+2018-01-11 16:31:54.0493 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 16:31:54.0493 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 16:31:54.0493 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 16:31:54.0493 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 16:31:54.0493 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 16:31:54.0493 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 16:31:54.0493 Info Closing old configuration.
+2018-01-11 16:31:54.3668 Info Found 114 configuration items
+2018-01-11 16:31:54.3668 Info Found 114 configuration items
+2018-01-11 16:54:27.8772 Info Loading assembly: NLog.MailKit
+2018-01-11 16:54:28.0492 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 16:54:28.0492 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 16:54:28.0492 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 16:54:28.0492 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 16:54:28.0492 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 16:54:28.0492 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 16:54:28.0795 Info Found 114 configuration items
+2018-01-11 16:54:28.1022 Info Configuration initialized.
+2018-01-11 16:54:28.1022 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 16:54:28.1172 Info Found 114 configuration items
+2018-01-11 16:54:28.1172 Info Loading assembly: NLog.MailKit
+2018-01-11 16:54:28.1172 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 16:54:28.1172 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 16:54:28.1248 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 16:54:28.1248 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 16:54:28.1248 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 16:54:28.1248 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 16:54:28.1248 Info Closing old configuration.
+2018-01-11 16:54:28.4346 Info Found 114 configuration items
+2018-01-11 16:54:28.4392 Info Found 114 configuration items
+2018-01-11 16:58:13.9132 Info Loading assembly: NLog.MailKit
+2018-01-11 16:58:14.0865 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 16:58:14.0865 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 16:58:14.0865 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 16:58:14.0865 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 16:58:14.0865 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 16:58:14.0971 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 16:58:14.1148 Info Found 114 configuration items
+2018-01-11 16:58:14.1418 Info Configuration initialized.
+2018-01-11 16:58:14.1418 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 16:58:14.1418 Info Found 114 configuration items
+2018-01-11 16:58:14.1586 Info Loading assembly: NLog.MailKit
+2018-01-11 16:58:14.1586 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 16:58:14.1586 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 16:58:14.1586 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 16:58:14.1586 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 16:58:14.1586 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 16:58:14.1586 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 16:58:14.1586 Info Closing old configuration.
+2018-01-11 16:58:14.4550 Info Found 114 configuration items
+2018-01-11 16:58:14.4550 Info Found 114 configuration items
+2018-01-11 17:49:53.1449 Info Loading assembly: NLog.MailKit
+2018-01-11 17:49:53.3095 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 17:49:53.3095 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 17:49:53.3095 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 17:49:53.3130 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 17:49:53.3130 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 17:49:53.3130 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 17:49:53.3404 Info Found 114 configuration items
+2018-01-11 17:49:53.3635 Info Configuration initialized.
+2018-01-11 17:49:53.3635 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 17:49:53.3789 Info Found 114 configuration items
+2018-01-11 17:49:53.3789 Info Loading assembly: NLog.MailKit
+2018-01-11 17:49:53.3789 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 17:49:53.3789 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 17:49:53.3789 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 17:49:53.3789 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 17:49:53.3789 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 17:49:53.3789 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 17:49:53.3789 Info Closing old configuration.
+2018-01-11 17:49:53.6889 Info Found 114 configuration items
+2018-01-11 17:49:53.6889 Info Found 114 configuration items
+2018-01-11 18:14:34.9228 Info Loading assembly: NLog.MailKit
+2018-01-11 18:14:35.0895 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 18:14:35.0895 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 18:14:35.0895 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 18:14:35.0942 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 18:14:35.0942 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 18:14:35.0942 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 18:14:35.1208 Info Found 114 configuration items
+2018-01-11 18:14:35.1465 Info Configuration initialized.
+2018-01-11 18:14:35.1465 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 18:14:35.1626 Info Found 114 configuration items
+2018-01-11 18:14:35.1626 Info Loading assembly: NLog.MailKit
+2018-01-11 18:14:35.1626 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 18:14:35.1626 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 18:14:35.1626 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 18:14:35.1712 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 18:14:35.1712 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 18:14:35.1712 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 18:14:35.1712 Info Closing old configuration.
+2018-01-11 18:14:35.4834 Info Found 114 configuration items
+2018-01-11 18:14:35.4865 Info Found 114 configuration items
+2018-01-11 18:25:41.3813 Info Loading assembly: NLog.MailKit
+2018-01-11 18:25:41.5563 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 18:25:41.5563 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 18:25:41.5563 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 18:25:41.5563 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 18:25:41.5563 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 18:25:41.5665 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\bin\Debug\netcoreapp2.0\NLog.config...
+2018-01-11 18:25:41.5840 Info Found 114 configuration items
+2018-01-11 18:25:41.6071 Info Configuration initialized.
+2018-01-11 18:25:41.6071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c
+2018-01-11 18:25:41.6215 Info Found 114 configuration items
+2018-01-11 18:25:41.6215 Info Loading assembly: NLog.MailKit
+2018-01-11 18:25:41.6215 Info Adding target AsyncWrapper Target[errorfile](File Target[errorfile_wrapped])
+2018-01-11 18:25:41.6269 Info Adding target AsyncWrapper Target[infofile](File Target[infofile_wrapped])
+2018-01-11 18:25:41.6269 Info Adding target AsyncWrapper Target[debugfile](File Target[debugfile_wrapped])
+2018-01-11 18:25:41.6269 Info Adding target AsyncWrapper Target[ErrorMail](Mail Target[ErrorMail_wrapped])
+2018-01-11 18:25:41.6269 Info Adding target AsyncWrapper Target[blackhole](Null Target[blackhole_wrapped])
+2018-01-11 18:25:41.6269 Info Configured from an XML element in F:\NEW_TMS\DingTalkCallbackApi\DingTalkCallback\DingTalkCallbackApi\nlog.config...
+2018-01-11 18:25:41.6269 Info Closing old configuration.
+2018-01-11 18:25:41.9111 Info Found 114 configuration items
+2018-01-11 18:25:41.9249 Info Found 114 configuration items
